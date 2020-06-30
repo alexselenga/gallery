@@ -1,0 +1,9 @@
+{
+  "name": "Alex",
+  "version": "1.0.0",
+  "description": "Alex Gallery",
+  "main": "index.js",
+  "repository": "git@github.com:alexselenga/mywed.git",
+  "author": "Михеев Алексей <alexselenga@yandex.ru>",
+  "license": "MIT"
+}
